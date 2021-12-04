@@ -111,3 +111,13 @@ footer a:hover {
     max-width: 80vw;
   }
 }
+@media only screen and (min-width: 900px) {
+  body {
+    background-image: url("./img/circle.png"), url("./img/Inverted\ J.png"),
+      url("./img/J.png"), url("./img/angle\ bracket.png");
+    background-position: -1% -15%, 108% -1%, -5% 108%, 107% 105%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 10rem;
+  }
+}

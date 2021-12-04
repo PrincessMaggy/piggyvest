@@ -86,3 +86,18 @@ button {
 button:hover {
   background-color: var(--buttonHover);
 }
+
+/* footer section */
+footer {
+  margin: 3rem 0;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  color: var(--white);
+}
+
+footer a:hover {
+  color: var(--footerHover);
+}

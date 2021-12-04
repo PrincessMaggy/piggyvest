@@ -101,3 +101,13 @@ footer a {
 footer a:hover {
   color: var(--footerHover);
 }
+
+/* media queries */
+@media (max-width: 1000px) {
+  #logo {
+    width: 35vw;
+  }
+  form {
+    max-width: 80vw;
+  }
+}

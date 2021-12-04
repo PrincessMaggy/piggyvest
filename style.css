@@ -26,3 +26,63 @@ header {
   margin: 4rem;
   width: 18vw;
 }
+
+/* form section */
+form {
+  margin: 0 auto;
+  padding: 0 4rem;
+  max-width: 40vw;
+  background-color: var(--white);
+  border-radius: 25px 25px 25px 0;
+}
+
+.form-head {
+  padding: 3rem 0;
+  text-align: center;
+}
+.form-head p {
+  padding: 0.2rem;
+  color: var(--paragraph);
+}
+
+form h2 {
+  color: var(--formHead);
+}
+
+.container {
+  margin-bottom: 3rem;
+}
+form label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.6rem;
+  color: var(--label);
+  font-size: 1.2rem;
+}
+
+form input,
+form select {
+  height: 4.2rem;
+  width: 100%;
+  padding: 0 0.7rem;
+  background-color: var(--formBg);
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  border: none;
+  margin-bottom: 3rem;
+  background-color: var(--button);
+  color: var(--white);
+  font-weight: bold;
+  height: 5rem;
+  width: 100%;
+  border-radius: 7px 7px 7px 0;
+  cursor: pointer;
+  transition: 0.5s ease-out;
+}
+
+button:hover {
+  background-color: var(--buttonHover);
+}

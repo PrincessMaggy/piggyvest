@@ -1,4 +1,4 @@
-# Static Food app
+## Piggyvest Registration Page
 
 ## Table of contents
 
@@ -19,8 +19,8 @@ A copy of piggyvest registration page (static).
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/PrincessMaggy/piggyvest.git]
+- Live Site URL: [https://princessmaggy.github.io/piggyvest/]
 
 ### Built with
 
